@@ -3,6 +3,7 @@
 #请确保安装这两个外部库
 from bs4 import BeautifulSoup
 import requests
+import numpy
 #以下有3段测试代码：去掉注释就行，如果代码有问题请将文件改为英文
 
 #这段代码为 拉取豆瓣top250电影的名称
